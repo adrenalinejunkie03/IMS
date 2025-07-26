@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory Management System", "Inventory Management System.csproj", "{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "setup", "..\IMS_SETUP\Debug\setup.exe", "{8C303BF2-D658-4D53-B812-1D66DBAC606A}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\hijaz tr\source\repos\Project\IMS_SETUP\Debug\setup.exe
+		RemoteMachine = DESKTOP-9REPN8F
+		StartingDirectory = C:\Users\hijaz tr\source\repos\Project\IMS_SETUP\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IMS_Setup", "..\IMS_Setup\IMS_Setup.vdproj", "{1A946C06-741C-4861-A972-626AD0D704CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Debug|x86.Build.0 = Debug|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Release|x86.ActiveCfg = Release|Any CPU
+		{E00AAFBF-A427-4BEF-9FC6-46B56FD87363}.Release|x86.Build.0 = Release|Any CPU
+		{8C303BF2-D658-4D53-B812-1D66DBAC606A}.Debug|Any CPU.ActiveCfg = Release|x86
+		{8C303BF2-D658-4D53-B812-1D66DBAC606A}.Debug|x86.ActiveCfg = Release|x86
+		{8C303BF2-D658-4D53-B812-1D66DBAC606A}.Release|Any CPU.ActiveCfg = Release|x86
+		{8C303BF2-D658-4D53-B812-1D66DBAC606A}.Release|x86.ActiveCfg = Release|x86
+		{1A946C06-741C-4861-A972-626AD0D704CA}.Debug|Any CPU.ActiveCfg = Debug
+		{1A946C06-741C-4861-A972-626AD0D704CA}.Debug|x86.ActiveCfg = Debug
+		{1A946C06-741C-4861-A972-626AD0D704CA}.Release|Any CPU.ActiveCfg = Release
+		{1A946C06-741C-4861-A972-626AD0D704CA}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4DBD2D-9A2E-4B05-8961-FA32B824E2B3}
+	EndGlobalSection
+EndGlobal
