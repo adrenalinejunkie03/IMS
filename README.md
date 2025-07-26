@@ -6,3 +6,5 @@ This project is basically for university but can be used for small businesses or
 The code will be provided, you may need to make some changes fiest in order to make it useful for you, as there needs to be an installation of SQL-Server and key is generated on first use which authenticates the user and stores the username and password for login..
 
 Enjoy the software :)
+
+You can create a fork or branch and make changes in code so it could be made useful for any user and it could be open fo remote connection...
