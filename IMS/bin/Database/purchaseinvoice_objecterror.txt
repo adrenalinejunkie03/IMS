@@ -1,0 +1,27 @@
+ private bool checkPPExistance;
+        public bool checkProductPriceExistance(Int64 proID)
+        {
+            try
+            {
+                SqlCommand cmd = new SqlCommand("st_checkProductPriceExist", MainClass.con);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@proID", proID);
+                MainClass.con.Open();
+                SqlDataReader dr = cmd.ExecuteReader();
+                if (dr.HasRows)
+                {
+                    checkPPExistance = true;
+                }
+                else
+                {
+                    checkPPExistance = false;
+                }
+                MainClass.con.Close();
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            return checkPPExistance;
+        }

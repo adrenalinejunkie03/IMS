@@ -1,0 +1,24 @@
+ private void quantityTEXT_TextChanged(object sender, EventArgs e)
+        {
+            if(quantityTEXT.Text != " ")
+            {
+                if(rg.Match(quantityTEXT.Text).Success)
+                {
+                    float quan, price, total;
+                    quan = Convert.ToSingle(quantityTEXT.Text);
+                    price = Convert.ToSingle(pupTEXT.Text);
+                    total = quan * price;
+                    totalLabel.Text = total.ToString("######.##");
+                }
+                else
+                {
+                    quantityTEXT.SelectAll();
+                }
+            }
+            else
+            {
+                totalLabel.Text = "0.00";
+            }
+        }
+
+WRONG / ERROR WITH BACKSPACE IN QUANTITY

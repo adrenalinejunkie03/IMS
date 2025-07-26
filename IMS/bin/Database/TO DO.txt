@@ -1,0 +1,47 @@
+Connect file is in mydocuments.. check it when being deployed..
+
+1)Make SEARCH TEXTBOX connect to each other... (DONE)
+
+2)from dbo.supplier table,  make the ntn status to allow null but it shows an error message.. Ask about it.  (DONE)
+
+3) Data not being fetched to getpurchaseinvoicedetails from purchaseinvoice &  purchaseinvoicedetails... Code is okey.
+ Do something about query (DONE)
+
+4) Some stock problem is there.. Value & quantity are adding in a single row where as the id is 0 even when from multiple suppliers
+the product is added and multiple products.. what to do..:( (DONE)
+
+5) There's some problem in stock and purchaseinvoice details as 2nd one doesnot give 
+proper pid and assigns 0 to all where as the first one doesnot increase data to rows
+and because of that 0 assigning to all pid's it adds up the same quantity to all and even
+the data is not retrieved anywhere (DONE)
+
+6) Lecture 17 (Sales window) delete button problem and check stock --> WORK ON IT
+
+7) imsDB -> Tables -> Sales -> have to add paytype but on saving shows error , check error from lec 17 & 18 (DONE)
+
+8) Check how to make a serial number on Sales Receipt
+
+9) Watch lecture 22 and make all necessary changes and make a refund invoice report as well.
+Sales , SalesDetail & insertSales(sp) (DONE)
+insertreturnrefund make a stored procedure that adds values to return fund table.
+similarly do all the code by seeing the parameters and then run. (DONE)
+Make returnfund invoice receipt as well using crystal report. (DONE)
+
+make a serial number with auto increment in salesreturn and recipt window query so that
+in cystal reports that comes with numbering 1,2,34, etc.
+
+From SalesReturnWindow in save button inside insertReturnFund, I've deleted 2 items
+key and a value..
+
+10) lecture 24: check the PurchaseInvoice window for error. (DONE yet Working)
+
+11) Go to Properties from IMS and go to assembly.cs and change the version so that it 
+makes your exe a new one after you have made changes to your project and from properties
+name the version same as assembly.cs
+WATCH LECTURE 25 AGAIN FOR DEPLOYMENT 
+
+AHHHHHHHH ...
+BIG ERRORS NOWWWW....
+
+12) Search for REPORT in add new project to create a web setup or desktop setup for 
+your project.

@@ -1,0 +1,71 @@
+SQL QUERY
+
+create procedure st_getUserDetails
+@user varchar(30),
+@pass nvarchar(30)
+as
+select 
+u.usr_id as 'ID',
+u.usr_name as 'Name',
+u.usr_username as 'Username',
+u.usr_password as 'Password' from users u
+where
+u.usr_name = 'Suhaib'
+and
+u.usr_password = '123'
+
+"""THE ERROR IS THAT USERNAME HAS TO BE TAKEN WITH A GAP FIRST AND THEN TYPE""""
+
+RETRIEVAL COMMAND
+
+
+ public static bool getUserDetails(string username, string password)
+        {
+            try
+            {
+                SqlCommand cmd = new SqlCommand("st_getUserDetails", MainClass.con);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@user", username );
+                cmd.Parameters.AddWithValue("@pass", password);
+                MainClass.con.Open();
+                SqlDataReader dr = cmd.ExecuteReader();
+                if(dr.HasRows)
+                {
+                    checkLogin = true;
+                    while(dr.Read())
+                    {
+                        USER_ID = Convert.ToInt32(dr["ID"].ToString());
+                        EMP_NAME = dr["Name"].ToString();
+                        user_name = dr["Username"].ToString();
+                        pass_word = dr["Password"].ToString();
+                    }
+                   
+                }
+                else
+                {
+                    checkLogin = false;
+                    if(username != null && password != null)
+                    {
+                        if(user_name != username && pass_word == password)
+                        {
+                            MainClass.ShowMSG("Invalid Username", "Error...", "Error");
+                        }
+                        else if (user_name == username && pass_word != password)
+                        {
+                            MainClass.ShowMSG("Invalid Password", "Error...", "Error");
+                        }
+                        else if(user_name != username && pass_word != password)
+                        {
+                            MainClass.ShowMSG("Invalid Username and Password", "Error...", "Error");
+                        }
+                    }
+                }
+                MainClass.con.Close();
+            }
+            catch(Exception)
+            {
+                MainClass.con.Close();
+                MainClass.ShowMSG("Unable to login...", "Error...", "Error");
+            }
+            return checkLogin;
+        }
