@@ -1,0 +1,138 @@
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\Inventory Management System.exe
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\Inventory Management System.pdb
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\bin\Debug\stdole.dll
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Categories.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReport.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.HomeScreen.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.login.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.MDI.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.ProductPricing.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoice.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoiceDetails.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sales.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnReceiptWindow.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnWindow.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample2.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Settings.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Stocks.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Supplier.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Users.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory_Management_System.viewSalesInvoices.resources
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory Management System.exe
+C:\Users\hijaz tr\source\repos\Project\Inventory Management System\obj\Debug\Inventory Management System.pdb
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\Inventory Management System.exe
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\Inventory Management System.pdb
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\bin\Debug\stdole.dll
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Categories.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReport.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.HomeScreen.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.login.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.MDI.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.ProductPricing.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoice.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoiceDetails.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sales.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnReceiptWindow.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnWindow.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample2.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Settings.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Stocks.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Supplier.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Users.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory_Management_System.viewSalesInvoices.resources
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory Management System.exe
+E:\PROJECT VER 2.0.5\Project\Inventory Management System\obj\Debug\Inventory Management System.pdb
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Categories.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReport.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.HomeScreen.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.login.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.MDI.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.ProductPricing.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Products.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Properties.Resources.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoice.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.PurchaseInvoiceDetails.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sales.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnReceiptWindow.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.SalesReturnWindow.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Sample2.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Settings.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Stocks.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Supplier.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.Users.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory_Management_System.viewSalesInvoices.resources
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.GenerateResource.cache
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CoreCompileInputs.cache
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.exe
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.pdb
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\Inventory Management System.exe.config
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\Inventory Management System.exe
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\Inventory Management System.pdb
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.Shared.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\EPPlus.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\stdole.dll
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\bin\Debug\EPPlus.xml
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.CopyComplete
+E:\PROJ VER 2.0.5 CRT\Project\Inventory Management System\obj\Debug\Inventory Management System.csproj.AssemblyReference.cache
